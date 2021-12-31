@@ -15,7 +15,7 @@ Concretamente he distribuído por la escena cubos, cilindros y esferas con las s
 
 Todos los objetos suman puntos al ser golpeados y cada 100 puntos conseguidos se aumenta en 1 la fuerza del jugador.
 
-![alt text](https://github.com/RubnGB/ull_master_fundamentosDesarrollo/master/Practica2/gif_animation_02.gif)
+![alt text](https://github.com/RubnGB/ull_master_fundamentosDesarrollo/blob/main/Practica2/gif_animation_02.gif)
 
 ##Descripción de los scripts
 
