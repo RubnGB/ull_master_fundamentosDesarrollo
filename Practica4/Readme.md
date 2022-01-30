@@ -15,4 +15,4 @@ Para finalizar, no se nos puede olvidar asignar como objeto target al propio per
 
 En el caso de que quiera que visualmente se vean los waypoints, puedo asignar a cada uno de los puntos del circuito una figura geométrica
 
-![alt text](https://github.com/RubnGB/ull_master_fundamentosDesarrollo/blob/main/Practica3/gif_animation_04.gif)
+![alt text](https://github.com/RubnGB/ull_master_fundamentosDesarrollo/blob/main/Practica4/gif_animation_04.gif)
