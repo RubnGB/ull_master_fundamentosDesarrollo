@@ -47,4 +47,5 @@ Ahora ya tenemos preparado el entorno para poder modificar nuestro proyecto desd
 - Cuando tengamos todos los cambios que queremos subir al servidor, cogemos la Changelist y hacemos el correspondiente submit. 
 
 En este gif simplemente vamos a hacer checkout de la escena para que nos deje añadir una fruta para posteriormente subir los cambios al servidor.
+
 ![alt text](https://github.com/RubnGB/ull_master_fundamentosDesarrollo/blob/main/Practica1/Tarea3_Perforce/gif_animation_01c.gif)
