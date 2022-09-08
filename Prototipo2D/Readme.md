@@ -86,5 +86,5 @@ Respecto a la bala, se ha creado un prefab y un script asociado a él (shot) en 
 En cuanto al script asociado al pool de balas (ShotPool), se le asocia el prefab de la bala, un tamaño inicial del pool y se crea una lista que contendrá dichas balas. En este caso se usa una lista en vez de un array para poder aumentar su tamaño en caso de solicitar más balas que el tamaño del pool indicado inicialmente.
 Al iniciar el juego se crea el total de balas inicial desactivadas, y cada vez que el jugador dispare, lo que hará será llamar al método RequestShot que se encarga de ir activando una a una las balas solicitadas. Si no encuentra balas inactivas para activarlas, lo que ocurre es que se añade una bala más al final de la lista y se activa dicha bala.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6oEmNrLDTZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/6oEmNrLDTZI/default.jpg)](https://youtu.be/6oEmNrLDTZI)
 
