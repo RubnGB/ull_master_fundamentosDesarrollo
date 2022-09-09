@@ -90,3 +90,22 @@ Al iniciar el juego se crea el total de balas inicial desactivadas, y cada vez q
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6oEmNrLDTZI" target="_blank">
  <img src="http://img.youtube.com/vi/6oEmNrLDTZI/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
+
+## Assets utilizados
+### Audio
+- Música Inicio - Exploring Magic 1; Música nivel 1 – Sneaking_Night; Música nivel 2 – Title/Castle. Warped Fantasy Music Pack Andrew Isaias: https://assetstore.unity.com/packages/audio/ambient/fantasy/warped-fantasy-music-pack-49914 
+- Música nivel 3 – maintheme_1_the_combat_collection; música combates – Pursuit 1 John Leonard French: https://assetstore.unity.com/?free=true&q=fighting%20music&orderBy=1
+- Sonido de salto - swing-whoosh, Jofae: https://pixabay.com/users/jofae-2612324/?tab=audio 
+- Efecto disparo - Free Laser Weapons, Daniel Soundsgood: https://assetstore.unity.com/packages/audio/sound-fx/weapons/free-laser-weapons-214929 
+
+### Sprites
+- Bosque - Platformer Fantasy SET1, Szadi Art.: https://assetstore.unity.com/packages/2d/environments/platformer-fantasy-set1-159063 
+- Cueva -Warped Caves, Ansimuz: https://assetstore.unity.com/packages/2d/characters/warped-caves-103250#description 
+- Objetos – Sunnyland, Ansimuz: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349 
+- Objetos – Generic dungeon pack, Bakudas: https://bakudas.itch.io/generic-dungeon-pack 
+- Fondo background exterior nivel 1 – Parallax Dusk Mountain Background, Ansimuz: https://assetstore.unity.com/packages/2d/textures-materials/tiles/parallax-dusk-mountain-background-53403 
+
+### Fuentes y elementos de la UI
+- UI Fonts - Free Pixel Font, Thaleah: https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+- UI - 2D Simple UI Pack, OArielG: https://assetstore.unity.com/packages/2d/gui/icons/2d-simple-ui-pack-218050 
+
